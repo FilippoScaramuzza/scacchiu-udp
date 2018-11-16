@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScacchiUDP", "ScacchiUDP\ScacchiUDP.csproj", "{A92FBFEB-8430-4B47-9CB0-A5D348A8C1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92FBFEB-8430-4B47-9CB0-A5D348A8C1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92FBFEB-8430-4B47-9CB0-A5D348A8C1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92FBFEB-8430-4B47-9CB0-A5D348A8C1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92FBFEB-8430-4B47-9CB0-A5D348A8C1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB078E1-DE8F-4D0D-BE78-8AF661A051BC}
+	EndGlobalSection
+EndGlobal

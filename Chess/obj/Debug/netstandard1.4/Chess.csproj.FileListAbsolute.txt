@@ -1,0 +1,16 @@
+C:\Users\Filippo\source\repos\ScacchiUDP\Chess\bin\Debug\netstandard1.4\Chess.deps.json
+C:\Users\Filippo\source\repos\ScacchiUDP\Chess\bin\Debug\netstandard1.4\Chess.dll
+C:\Users\Filippo\source\repos\ScacchiUDP\Chess\bin\Debug\netstandard1.4\Chess.pdb
+C:\Users\Filippo\source\repos\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Filippo\source\repos\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Filippo\source\repos\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.AssemblyInfo.cs
+C:\Users\Filippo\source\repos\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.dll
+C:\Users\Filippo\source\repos\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.pdb
+C:\Users\Filippo\Desktop\ScacchiUDP\Chess\bin\Debug\netstandard1.4\Chess.deps.json
+C:\Users\Filippo\Desktop\ScacchiUDP\Chess\bin\Debug\netstandard1.4\Chess.dll
+C:\Users\Filippo\Desktop\ScacchiUDP\Chess\bin\Debug\netstandard1.4\Chess.pdb
+C:\Users\Filippo\Desktop\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Filippo\Desktop\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Filippo\Desktop\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.AssemblyInfo.cs
+C:\Users\Filippo\Desktop\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.dll
+C:\Users\Filippo\Desktop\ScacchiUDP\Chess\obj\Debug\netstandard1.4\Chess.pdb
